@@ -1,0 +1,8 @@
+/.buildpath
+/.project
+/composer.lock
+/.settings
+/.vscode
+*/.env
+*/.dev.env
+*/.pro.env
